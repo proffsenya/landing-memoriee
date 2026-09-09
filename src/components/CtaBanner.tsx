@@ -20,8 +20,8 @@ export const CtaBanner = () => {
             </p>
             <a href="#pricing">
               <Button
-                variant="secondary"
-                className="inline-flex items-center gap-2 bg-white text-indigo-700 border-0 hover:bg-gray-100 px-8 py-4 text-lg"
+                variant="light"
+                className="inline-flex items-center gap-2 px-8 py-4 text-lg"
               >
                 <Camera size={20} />
                 Создать мероприятие
